@@ -1,1 +1,1 @@
-This will be awesome photoblog. Period.
+This will be an awesome photoblog. Period.
