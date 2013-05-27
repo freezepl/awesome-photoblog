@@ -8,6 +8,7 @@ gem 'devise-i18n'
 gem 'friendly_id', '~> 4.0.9'
 gem 'carrierwave'
 gem 'rmagick', '~> 2.13.2'
+gem 'jquery-rails'
 
 
 group :assets do
@@ -16,8 +17,6 @@ group :assets do
   gem 'uglifier', '>= 1.0.3'
   gem 'therubyracer', :platforms => :ruby
 end
-
-# gem 'jquery-rails'
 
 group :development do
   gem 'better_errors'
